@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Zsniper-exe
 - 👀 I’m interested in Stem
 - 🌱 I’m currently learning Japanese
-- 💞️ I’m looking to collaborate on Game
-- 📫 How to reach me I prob wont respond
+- 💞️ I’m looking to collaborate on anything
 
 <!---
 Zsniper-exe/Zsniper-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
